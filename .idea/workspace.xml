@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5f8ecd7-518e-48b2-9877-7a7ec67eeb6e" name="변경" comment="test 1">
-      <change beforePath="$PROJECT_DIR$/Assinment2Entity" beforeDir="false" />
-    </list>
+    <list default="true" id="a5f8ecd7-518e-48b2-9877-7a7ec67eeb6e" name="변경" comment="test 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,8 +55,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\a\OneDrive\Desktop\asdaskfasf\Group4_ICMS\Group4_ICMS_Code" />
       <recent name="C:\Users\a\OneDrive\Desktop\asdaskfasf\Group4_ICMS\Group4_ICMS_Code\Entities" />
+      <recent name="C:\Users\a\OneDrive\Desktop\asdaskfasf\Group4_ICMS\Group4_ICMS_Code" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
@@ -137,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713784318701</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test 1">
+      <option name="closed" value="true" />
+      <created>1713784525394</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713784525394</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
